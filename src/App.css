@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300&display=swap');
+*{
+    font-family:'Poppins', sans-serif ;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #521745;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #6e45df ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+body{
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),url(https://t3.ftcdn.net/jpg/03/19/28/72/360_F_319287296_SatHxj3D9NnJzD5LUQYlTgx1ijgnrCKA.jpg);
+}
+.whitebg{
+    background:#fff;
+}
+.navbar{
+    
+    filter: brightness(120%);
+    z-index: 3;  
+}
+.navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  }
+.navbar-brand {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    font-family: 'Cookie', cursive;
+}
+.navbar-dark .navbar-nav .nav-link {
+    
+}
+.color{
+    color:#ffffff !important;
+    font-weight: 400;
+}
+.color img{
+    width: 50px;
+    height: 50x;
+}
+.size{
+    height: 35em;
+}
+.nav-link{
+    font-size: 1.25rem;   
+}
+.nav-item :hover{
+    /*background: #e6b800;*/
+}
+.nav-item .active{
+   color:rgb(255, 255, 255) !important;
+}
+.navbar button{
+    /*outline: none;
+    border: none;
+    background: #e6b800;
+    color: white;
+    text-shadow: black;*/
+    
+}
+.PrivatePickersFadeTransitionGroup-root.MuiCalendarPicker-viewTransitionContainer.css-1wvgxus-MuiCalendarPicker-viewTransitionContainer{
+    pointer-events:none;
+}
+.css-4l7j15{
+    background-color: #ffffff94 !important;
+}
+.css-16po2ru-MuiButtonBase-root-MuiPickersDay-root { 
+    color:#fff !important;
+    background-color: #28bb16 !important;
+}
+.css-1pjelpz-MuiButtonBase-root-MuiPickersDay-root.Mui-selected{
+    color:#fff !important;
+    background-color: #28bb16 !important;
+}
+.css-es9is1-MuiButtonBase-root-MuiPickersDay-root{
+    color:#fff !important;
+    background-color: #28bb16 !important;
+}
+.sampleimage{
+    margin: 0;
+    padding: 0;
+    background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.1),
+      rgba(0, 0, 0, 0.1)
+    ),url(https://images.squarespace-cdn.com/content/v1/5ad6eb5f620b85ea1e999510/1588014233823-C14JBM7BYT7NOAIPFHLU/the_temple_house_miami_wedding_venue_reception_ceremonyevents-498.jpg);
+    -webkit-backgrround-size:cover;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: poppins;
+    height: 100vh;
+    
+}
+.wrapper{
+    z-Index: 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    padding: 30pt;
+    filter: brightness(100%);
+    transform: translate(-50%,-50%);
+    color: white;
+}
+.wrapper h1{
+    text-shadow: 0 2px 0 rgba(0, 0, 0, 0.5);
+    
+}
+.wrapper p{
+    font-size: 18px;
+    line-height: 25px;
+}
+.wrapper button{
+    background: crimson;
+}
+@keyframes animate {
+    0%{
+        content: 'Venue';
+    }
+    33%{
+        content: 'Venue';
+    }
+    67%{
+        content: 'Venue';
+    }
+    100%{
+        content: 'Venue';
+    }
+}
+.wrapper span::before{
+    content: '';
+    animation: animate infinite 6s !important;
+
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+.MuiRating-iconEmpty {
+color:#ffff0085 !important;
+}
+

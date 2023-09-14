@@ -1,0 +1,102 @@
+export const stores=
+    [
+        {
+        id: 0,
+        name:'JKK Jewellery',
+        image: 'https://i1.wp.com/cdn.whatsuplife.in/delhi/blog/2016/01/1453199055_BG_SI_SX2_122015_0200.jpg',
+        address:'7/8/9',
+        area:'Perundurai',
+        city: 'Erode',
+        state:'Tamil Nadu',
+        landmark:'near',
+        description:'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
+        category:'Jewellery',                        
+        },
+        {
+            id: 1,
+            name:'SKT Silks',
+            image: 'https://lh3.googleusercontent.com/aVXGI6I30vpBkmC5GcLAM_XeJIojUk29HHzb3rsVTph6MNjVorFrcsyyd9_pAGjirsZpZCmS-nPEjLy4cl2prHhIzA=w512',
+            address:'7/8/9',
+            area:'Kuniyamuthur',
+            city: 'Coimbatore',
+            state:'Tamil Nadu',
+            landmark:'near',
+        description:'Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce',
+        category:'Dress',
+        },
+        {
+        id: 2,
+        name:'ARM Silks',
+        image: 'https://lh3.googleusercontent.com/WjpMXC9Lxt36LyE633VbvK8kK0n_Dqjvim32YuuN02anCO2Smq-1cYXDAbV2UPBmC9d22ZVriMkWVg5UUA_gDqy_Hb8=w512',
+        address:'1/52/1',
+        area:'Anna Nagar',
+        city: 'Chennai',
+        state:'Tamil Nadu',
+        landmark:'near',
+        description:'A quintessential ConFusion experience, is it a vada or is it a donut',
+        category:'Dress',
+        
+        },
+        {
+        id: 3,
+        name:'GSR Printers',
+        image: 'https://content3.jdmagicbox.com/comp/chennai/n9/044pxx44.xx44.180919113832.u7n9/catalogue/magudam-wedding-cards-royapettah-chennai-offset-printers-nnuuog9xgu.jpg?clr=4c1a2e',
+        address:'1/52/1',
+        area:'Sulur',
+        city: 'Coimbatore',
+        state:'Tamil Nadu',
+        landmark:'near',
+        description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+        category:'cardprinters',
+        
+        },
+        {
+            id: 4,
+            name:'RD Jewellery',
+            image: 'https://i.pinimg.com/originals/c1/85/27/c1852757c76b515182c184bb3754c7ef.jpg',
+            address:'1/52/1',
+            area:'Tirumangalam',
+            city: 'erode',
+            state:'Tamil Nadu',
+            landmark:'near',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+            category:'Jewellery'
+        },
+        {
+            id: 5,
+            name:'Lucky Printers',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41DqDw1Z8mMO0oxGsFlgm5f2jo48tWimkqFzmL_6Y4-9q6uR93_8RPiS8oNRlEvfaVz8&usqp=CAU',
+            address:'1/52/1',
+            area:'Yercaud',
+            city: 'Selam',
+            state:'Tamil Nadu',
+            landmark:'near',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+            category:'cardprinters'
+        },
+        {
+            id: 6,
+            name:'Vietnam Souvenirs',
+            image: 'https://www.exoticvoyages.com/uploads/images/userfiles/2018/07/at-a-silk-shop-in-Van-Phuc-village.-Silk-fabrics-here-are-woven-by-hand-Van-Phuc-village-Hanoi-capital-Vietnam.jpg',
+            address:'1/52/1',
+            area:'Chozhavandan',
+            city: 'Madurai',
+            state:'Tamil Nadu',
+            landmark:'near',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+            category:'dress'
+        },
+        {
+            id: 4,
+            name:'Lovely Printers',
+            image: 'https://drive.google.com/thumbnail?id=1egc75-OegOY-F-S8rrrvLBHCvrWJdKMv',
+            address:'1/52/1',
+            area:'Adyar',
+            city: 'Chennai',
+            state:'Tamil Nadu',
+            landmark:'near',
+            description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms',
+            category:'cardprinters'
+             
+        }
+    ];
